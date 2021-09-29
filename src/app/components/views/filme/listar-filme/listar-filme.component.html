@@ -1,0 +1,24 @@
+
+
+<h1> Filmes Cadastrados</h1>
+
+<table>
+    <tr>
+      <th>Titulo</th>
+      <th>Genero</th>
+      <th>Ano</th>
+      <th>Diretor</th>
+    </tr>
+    <tr *ngFor="let filme of filmes">
+        <td>{{ filme.titulo }}</td>
+        <td>{{ filme.genero }}</td>
+        <td>{{ filme.ano }}</td>
+        <td>{{ filme.diretor}}</td>
+     </tr>
+</table>
+
+<button ><a routerLink="/filme/cadastrar">Cadastrar Filme</a></button>
+
+
+
+

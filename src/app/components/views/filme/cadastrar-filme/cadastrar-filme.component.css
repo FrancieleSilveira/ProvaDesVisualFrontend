@@ -1,0 +1,31 @@
+
+h1{
+    color: palevioletred;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label{
+    text-align: center;
+    font-size: 30px;
+    color: palevioletred;
+}
+
+
+div{
+
+    margin-left: 380px;
+
+}
+
+button{
+
+    font-size: 20px;
+    margin-left: 470px;
+    margin-top: 50px;
+    color: palevioletred;
+    background-color: aliceblue;
+
+
+}
+

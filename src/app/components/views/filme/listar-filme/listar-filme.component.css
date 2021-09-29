@@ -1,0 +1,36 @@
+
+h1{
+    color: palevioletred;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+table {
+    
+    font-family: arial, sans-serif;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid palevioletred;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgba(216, 112, 147, 0.452);
+  }
+
+  button{
+
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 20px;  
+    color: palevioletred;
+    background-color: aliceblue;
+     
+  }
+    
+  
